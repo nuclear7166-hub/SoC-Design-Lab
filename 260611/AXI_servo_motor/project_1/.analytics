@@ -1,0 +1,16 @@
+timestamp=[2026-06-11 16:45:57], mode=WORKBENCH_START, duration=0:00:05.139, duration_ms=5139, data={}
+timestamp=[2026-06-11 16:45:58], mode=WORKBENCH_UI_INIT, duration=0:00:00.385, duration_ms=385, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2026-06-11 16:45:59], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.372, duration_ms=372, data={}
+timestamp=[2026-06-11 16:46:28], mode=APP_CREATION, duration=0:00:03.953, duration_ms=3953, data={name=servo, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=servo_wrapper, application_type=application}
+timestamp=[2026-06-11 16:56:26], mode=PLATFORM_GENERATION, duration=0:00:03.722, duration_ms=3722, data={name=servo_wrapper}
+timestamp=[2026-06-11 16:56:29], mode=BUILD, duration=0:00:02.581, duration_ms=2581, data={name=servo, configuration=Debug, clean_build=false}
+timestamp=[2026-06-11 16:56:29], mode=BUILD, duration=0:00:00.151, duration_ms=151, data={name=servo_system, configuration=Debug, clean_build=false}
+timestamp=[2026-06-16 19:21:03], mode=WORKBENCH_START, duration=0:00:04.995, duration_ms=4995, data={}
+timestamp=[2026-06-16 19:21:03], mode=WORKBENCH_UI_INIT, duration=0:00:00.537, duration_ms=537, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,servo,servo_system,servo_wrapper}
+timestamp=[2026-06-16 19:21:04], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.298, duration_ms=298, data={}
+timestamp=[2026-06-17 09:37:06], mode=WORKBENCH_START, duration=0:00:05.870, duration_ms=5870, data={}
+timestamp=[2026-06-17 09:37:07], mode=WORKBENCH_UI_INIT, duration=0:00:00.602, duration_ms=602, data={editors_count=4, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,servo,servo_system,servo_wrapper}
+timestamp=[2026-06-17 09:37:07], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.290, duration_ms=290, data={}
+timestamp=[2026-06-17 09:37:16], mode=BUILD, duration=0:00:00.243, duration_ms=243, data={name=servo, configuration=Debug, clean_build=true}
+timestamp=[2026-06-17 09:37:17], mode=BUILD, duration=0:00:00.185, duration_ms=185, data={name=servo_system, configuration=Debug, clean_build=true}
+timestamp=[2026-06-17 09:37:19], mode=PLATFORM_GENERATION, duration=0:00:02.682, duration_ms=2682, data={name=servo_wrapper}

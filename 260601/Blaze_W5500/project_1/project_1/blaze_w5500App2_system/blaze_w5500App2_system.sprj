@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="blaze_w5500App2_system" platform="C:/Users/user/Desktop/AIOT/SoC/260601/project_1/blaze_w5500Top2/export/blaze_w5500Top2/blaze_w5500Top2.xpfm" platformUID="xilinx:::0.0(custom)" sysConfig="blaze_w5500Top2" runtime="cpp" rootFSLocation="" linuxImage="" sysroot="">
+  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.1141964331">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="blaze_w5500App2" domainName="standalone_microblaze_0" domainPrettyName="standalone_microblaze_0" appBuildConfig="Debug"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+    <lastBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="blaze_w5500App2" domainName="standalone_microblaze_0" domainPrettyName="standalone_microblaze_0" appBuildConfig="Debug"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </lastBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.1362432146">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="blaze_w5500App2" domainName="standalone_microblaze_0" domainPrettyName="standalone_microblaze_0" appBuildConfig="Release"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="servo" location="C:/Users/nucle/Desktop/AIoT/SoC/260611/AXI_servo_motor/project_1/servo" platform="C:/Users/nucle/Desktop/AIoT/SoC/260611/AXI_servo_motor/project_1/servo_wrapper/export/servo_wrapper/servo_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="servo_system" sysConfig="servo_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="07f59f58b7be7fa7e82eb747fb88d97f">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1773287952">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1217100597" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="axi_fnd" location="C:/Users/nucle/Desktop/AIoT/SoC/260604/myip_axi_fnd/myip_axi_fnd/axi_fnd" platform="C:/Users/nucle/Desktop/AIoT/SoC/260604/myip_axi_fnd/myip_axi_fnd/axi_fnd_wrapper/export/axi_fnd_wrapper/axi_fnd_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="axi_fnd_system" sysConfig="axi_fnd_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="989eece3353fff6ab700faf00bea24c7">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.946303408">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1369325321" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

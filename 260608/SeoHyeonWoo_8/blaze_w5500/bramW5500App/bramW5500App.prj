@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="bramW5500App" location="C:/Users/user/Desktop/logic_ch9/blaze_w5500/bramW5500App" platform="C:/Users/user/Desktop/logic_ch9/blaze_w5500/bramW5500Top/export/bramW5500Top/bramW5500Top.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="bramW5500App_system" sysConfig="bramW5500Top" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="dbbd04df6c9efeeed946e175b5b7cdf2">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1783586621">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1226040567" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

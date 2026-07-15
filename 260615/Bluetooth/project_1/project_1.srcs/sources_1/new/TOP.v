@@ -1,0 +1,55 @@
+`timescale 1ns / 1ps
+module TOP(
+    Clk,
+    Rst_n,
+    Rx,
+    Tx,
+    RxData
+    );
+    
+    input Clk;
+    input Rst_n;
+    input Rx;
+    output Tx;
+    output [7:0] RxData;
+    
+    wire [7:0] TxData;
+    wire RxDone;
+    wire TxDone;
+    wire tick;
+    wire TxEn;
+    wire RxEn;
+    wire [3:0] NBits;
+    wire [15:0] BaudRate;
+    
+    assign RxEn = 1'b1;
+    assign TxEn = 1'b1;
+    assign BaudRate = 16'd651;
+    assign NBits = 4'b1000;
+    
+    UART_rx RX(
+        .Clk(Clk),
+        .Rst_n(Rst_n),
+        .RxEn(RxEn),
+        .RxData(RxData),
+        .RxDone(RxDone),
+        .Rx(Rx),
+        .Tick(tick),
+        .NBits(NBits)   );
+        
+    UART_tx TX(
+        .Clk(Clk),
+        .Rst_n(Rst_n),
+        .TxEn(TxEn),
+        .TxData(TxData),
+        .TxDone(TxDone),
+        .Tx(Tx),
+        .Tick(tick),
+        .NBits(NBits)   );
+        
+    UART_BaudRate_generator BAUDGEN(
+        .Clk(Clk),
+        .Rst_n(Rst_n),
+        .Tick(tick),
+        .BaudRate(BaudRate) );                
+endmodule

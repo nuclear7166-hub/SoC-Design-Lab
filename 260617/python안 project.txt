@@ -1,0 +1,2 @@
+project1 = 얼굴인식
+project2 = 사물인식

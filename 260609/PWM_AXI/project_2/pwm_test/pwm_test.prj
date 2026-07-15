@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="pwm_test" location="C:/Users/nucle/Desktop/AIoT/SoC/260609/PWM_AXI/project_2/pwm_test" platform="C:/Users/nucle/Desktop/AIoT/SoC/260609/PWM_AXI/project_2/pwm_test_wrapper/export/pwm_test_wrapper/pwm_test_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="pwm_test_system" sysConfig="pwm_test_wrapper" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="1e12cc2e0353000e100ce4478acdc83f">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.718746605">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1858904752" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

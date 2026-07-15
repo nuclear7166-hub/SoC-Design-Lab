@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="blaze_w5500App" location="C:/Users/nucle/Desktop/AIoT/SoC/260527/blaze_W5500/blaze_w5500App" platform="C:/Users/nucle/Desktop/AIoT/SoC/260527/blaze_W5500/blaze_W5500Top/export/blaze_W5500Top/blaze_W5500Top.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="blaze_w5500App_system" sysConfig="blaze_W5500Top" runtime="cpp" cpu="standalone_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="3bebd6e2d4d570eded35589c4aecd120">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.120324023" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.872576700" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

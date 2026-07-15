@@ -1,0 +1,7 @@
+timestamp=[2026-06-02 16:35:17], mode=WORKBENCH_START, duration=0:00:03.302, duration_ms=3302, data={}
+timestamp=[2026-06-02 16:35:17], mode=WORKBENCH_UI_INIT, duration=0:00:00.241, duration_ms=241, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2026-06-02 16:35:18], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.244, duration_ms=244, data={}
+timestamp=[2026-06-02 16:35:47], mode=APP_CREATION, duration=0:00:02.755, duration_ms=2755, data={name=mb_led_btn, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=led_btn_wrapper, application_type=application}
+timestamp=[2026-06-02 16:49:26], mode=PLATFORM_GENERATION, duration=0:00:03.198, duration_ms=3198, data={name=led_btn_wrapper}
+timestamp=[2026-06-02 16:49:27], mode=BUILD, duration=0:00:01.073, duration_ms=1073, data={name=mb_led_btn, configuration=Debug, clean_build=false}
+timestamp=[2026-06-02 16:49:28], mode=BUILD, duration=0:00:00.114, duration_ms=114, data={name=mb_led_btn_system, configuration=Debug, clean_build=false}

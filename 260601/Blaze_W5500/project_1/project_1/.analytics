@@ -1,0 +1,32 @@
+timestamp=[2026-06-01 10:04:34], mode=WORKBENCH_START, duration=0:00:04.368, duration_ms=4368, data={}
+timestamp=[2026-06-01 10:04:34], mode=WORKBENCH_UI_INIT, duration=0:00:00.283, duration_ms=283, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2026-06-01 10:04:35], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.370, duration_ms=370, data={}
+timestamp=[2026-06-01 10:05:09], mode=APP_CREATION, duration=0:00:04.429, duration_ms=4429, data={name=blaze_w5500App, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=blaze_w5500Top, application_type=application}
+timestamp=[2026-06-01 10:24:40], mode=PLATFORM_GENERATION, duration=0:00:04.754, duration_ms=4754, data={name=blaze_w5500Top}
+timestamp=[2026-06-01 10:24:42], mode=BUILD, duration=0:00:02.600, duration_ms=2600, data={name=blaze_w5500App, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 10:24:43], mode=BUILD, duration=0:00:00.100, duration_ms=100, data={name=blaze_w5500App_system, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 10:24:56], mode=BUILD, duration=0:00:00.171, duration_ms=171, data={name=blaze_w5500App, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 10:24:56], mode=BUILD, duration=0:00:00.095, duration_ms=95, data={name=blaze_w5500App_system, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 10:25:14], mode=BUILD, duration=0:00:00.165, duration_ms=165, data={name=blaze_w5500App, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 10:25:15], mode=BUILD, duration=0:00:00.101, duration_ms=101, data={name=blaze_w5500App_system, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 10:43:39], mode=PLATFORM_GENERATION, duration=0:00:02.281, duration_ms=2281, data={name=blaze_w5500Top}
+timestamp=[2026-06-01 10:43:46], mode=PLATFORM_GENERATION, duration=0:00:04.298, duration_ms=4298, data={name=blaze_w5500Top}
+timestamp=[2026-06-01 10:47:15], mode=PLATFORM_GENERATION, duration=0:00:02.240, duration_ms=2240, data={name=blaze_w5500Top}
+timestamp=[2026-06-01 10:47:23], mode=PLATFORM_GENERATION, duration=0:00:04.248, duration_ms=4248, data={name=blaze_w5500Top}
+timestamp=[2026-06-01 10:47:37], mode=PLATFORM_GENERATION, duration=0:00:02.795, duration_ms=2795, data={name=blaze_w5500Top}
+timestamp=[2026-06-01 10:50:03], mode=BUILD, duration=0:00:01.688, duration_ms=1688, data={name=blaze_w5500App, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 10:50:04], mode=BUILD, duration=0:00:00.107, duration_ms=107, data={name=blaze_w5500App_system, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 11:06:30], mode=PLATFORM_GENERATION, duration=0:00:06.821, duration_ms=6821, data={name=blaze_w5500Top}
+timestamp=[2026-06-01 11:06:31], mode=BUILD, duration=0:00:00.174, duration_ms=174, data={name=blaze_w5500App, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 11:21:12], mode=PLATFORM_GENERATION, duration=0:00:01.727, duration_ms=1727, data={name=blaze_w5500Top}
+timestamp=[2026-06-01 11:21:13], mode=BUILD, duration=0:00:00.113, duration_ms=113, data={name=blaze_w5500App, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 11:21:13], mode=BUILD, duration=0:00:00.157, duration_ms=157, data={name=blaze_w5500App_system, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 12:12:05], mode=APP_CREATION, duration=0:00:02.877, duration_ms=2877, data={name=blaze_w5500App2, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=blaze_w5500Top2, application_type=application}
+timestamp=[2026-06-01 12:24:46], mode=PLATFORM_GENERATION, duration=0:00:03.494, duration_ms=3494, data={name=blaze_w5500Top2}
+timestamp=[2026-06-01 12:24:48], mode=BUILD, duration=0:00:02.194, duration_ms=2194, data={name=blaze_w5500App2, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 12:24:49], mode=BUILD, duration=0:00:00.128, duration_ms=128, data={name=blaze_w5500App2_system, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 13:00:53], mode=PLATFORM_GENERATION, duration=0:00:02.210, duration_ms=2210, data={name=blaze_w5500Top2}
+timestamp=[2026-06-01 13:01:00], mode=PLATFORM_GENERATION, duration=0:00:04.238, duration_ms=4238, data={name=blaze_w5500Top2}
+timestamp=[2026-06-01 13:01:32], mode=PLATFORM_GENERATION, duration=0:00:02.758, duration_ms=2758, data={name=blaze_w5500Top2}
+timestamp=[2026-06-01 13:02:19], mode=BUILD, duration=0:00:01.613, duration_ms=1613, data={name=blaze_w5500App2, configuration=Debug, clean_build=false}
+timestamp=[2026-06-01 13:02:19], mode=BUILD, duration=0:00:00.110, duration_ms=110, data={name=blaze_w5500App2_system, configuration=Debug, clean_build=false}

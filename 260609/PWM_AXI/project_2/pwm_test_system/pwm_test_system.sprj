@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="pwm_test_system" platform="C:/Users/nucle/Desktop/AIoT/SoC/260609/PWM_AXI/project_2/pwm_test_wrapper/export/pwm_test_wrapper/pwm_test_wrapper.xpfm" platformUID="xilinx:::0.0(custom)" sysConfig="pwm_test_wrapper" runtime="cpp" rootFSLocation="" linuxImage="" sysroot="">
+  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.1345656710">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="pwm_test" domainName="standalone_microblaze_0" domainPrettyName="standalone_microblaze_0" appBuildConfig="Debug"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+    <lastBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="pwm_test" domainName="standalone_microblaze_0" domainPrettyName="standalone_microblaze_0" appBuildConfig="Debug"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </lastBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.210230663">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="pwm_test" domainName="standalone_microblaze_0" domainPrettyName="standalone_microblaze_0" appBuildConfig="Release"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>
